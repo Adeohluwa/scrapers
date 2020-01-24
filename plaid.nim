@@ -12,8 +12,7 @@ while true:
   let data = %*{
     "name": "Adeoluwa Adejumo",
     "email":"adejumoadeoluwa@gmail.com",
-    "resume":
-    "https://www.dropbox.com/s/p3o3hqqkfzuvpj0/Adeoluwa%20Adejumo%20%28technical%20support%29.pdf?dl=1",
+    "resume":"https://www.dropbox.com/s/p3o3hqqkfzuvpj0/Adeoluwa%20Adejumo%20%28technical%20support%29.pdf?dl=1",
     "github": "https://github.com/adeohluwa",
     "superpower": "b1 spanish"
     }
